@@ -1,10 +1,10 @@
 package main
 
 import (
-	"Lanshan-homework/five/cyjj"
-	"Lanshan-homework/five/kqjj"
-	"Lanshan-homework/five/role"
-	"Lanshan-homework/five/rtjj"
+	"five/cyjj"
+	"five/kqjj"
+	"five/role"
+	"five/rtjj"
 	"fmt"
 	"os"
 	"sync"
